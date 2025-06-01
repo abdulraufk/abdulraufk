@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square)
+
+
 I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
 ---
@@ -79,6 +82,10 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 ---
 
 Thank you for visiting my profile! Feel free to explore my projects or reach out for collaboration opportunities.
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square)
 
 ---
 
