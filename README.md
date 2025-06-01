@@ -68,4 +68,5 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 
 ---
 
-*Made with ❤️ by Abdul Rauf Khan*
+Made with ✨ by **Abdul Rauf Khan**
+
