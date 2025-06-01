@@ -85,6 +85,5 @@ Thank you for visiting my profile! Feel free to explore my projects or reach out
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square)
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=flat-square&color=brightgreen&labelColor=blue)  
 
 *Made with ❤️ by Abdul Rauf Khan*
