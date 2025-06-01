@@ -59,7 +59,8 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 
 - [LinkedIn](https://linkedin.com/in/abdulraufkhan824)  
 - [GitHub](https://github.com/abdulraufk)  
-- [Twitter](https://twitter.com/abdulraufkhan824)  
+- [Twitter](https://twitter.com/abdulraufkhan824)
+- [Twitter (X)](https://x.com/ABDULRAUF824?t=mvUtXgI-_ymweXLkdxV9rg&s=03)  
 - Email: abdulraufkhan824@gmail.com
 
 ---
