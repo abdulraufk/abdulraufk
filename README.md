@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=plastic&color=brightgreen&labelColor=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=flat-square&color=brightgreen&labelColor=blue)  
+![Followers](https://img.shields.io/github/followers/abdulraufkhan824?style=flat-square&color=brightgreen&labelColor=blue&logo=github)
+
 
 I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
