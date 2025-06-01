@@ -63,13 +63,8 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 - [Twitter (X)](https://x.com/ABDULRAUF824?t=mvUtXgI-_ymweXLkdxV9rg&s=03)  
 - 📧 [Email Me](mailto:abdulraufkhan824@gmail.com)
 
----
 
-Thank you for visiting my profile! Feel free to explore my projects or reach out for collaboration opportunities.
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square)
+<!--![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square) -->
 
 ---
 
