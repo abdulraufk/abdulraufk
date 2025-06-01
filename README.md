@@ -22,24 +22,10 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 
 ---
 
-## 🚀 Professional Skills
-
-| Technology       | Icon                                                                 | Description                              |
-|------------------|----------------------------------------------------------------------|------------------------------------------|
-| Angular          | <img src="https://skillicons.dev/icons?i=angular" width="18" />      | Robust frontend framework for enterprise-grade apps |
-| React.js         | <img src="https://skillicons.dev/icons?i=react" width="18" />        | Flexible UI library for modern web apps  |
-| Next.js          | <img src="https://skillicons.dev/icons?i=nextjs" width="18" />       | React framework with SSR and static generation support |
-| Node.js          | <img src="https://skillicons.dev/icons?i=nodejs" width="18" />       | Scalable backend runtime for APIs and services |
-| MongoDB          | <img src="https://skillicons.dev/icons?i=mongodb" width="18" />      | NoSQL database for flexible data modeling |
-| TypeScript       | <img src="https://skillicons.dev/icons?i=ts" width="18" />           | Typed superset of JavaScript for safer code |
-| JavaScript       | <img src="https://skillicons.dev/icons?i=js" width="18" />           | Core language of the web                  |
-| TailwindCSS      | <img src="https://skillicons.dev/icons?i=tailwind" width="18" />     | Utility-first CSS framework               |
-| HTML5            | <img src="https://skillicons.dev/icons?i=html" width="18" />         | Web page structure and semantics         |
-| CSS3             | <img src="https://skillicons.dev/icons?i=css" width="18" />          | Styling and layout                        |
-| VSCode           | <img src="https://skillicons.dev/icons?i=vscode" width="18" />       | Primary development environment          |
-| Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control and collaboration tool   |
-| GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting, reviews, and CI/CD         |
-| Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping             |
+## 🚀 Tech Stack
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" />
+</p>
 
 ---
 
