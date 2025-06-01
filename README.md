@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-I'm a dedicated **Full Stack Developer** with over 1.5 years of professional experience, specializing in modern web technologies including **Angular**, **React**, **Node.js**, and the **MERN stack**. I am passionate about building scalable, maintainable, and performant web applications that deliver excellent user experiences.
+I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
 ---
 
@@ -33,6 +33,17 @@ I'm a dedicated **Full Stack Developer** with over 1.5 years of professional exp
 | Git              | <img src="https://skillicons.dev/icons?i=git" width="18" />          | Version control and collaboration tool   |
 | GitHub           | <img src="https://skillicons.dev/icons?i=github" width="18" />       | Code hosting, reviews, and CI/CD         |
 | Figma            | <img src="https://skillicons.dev/icons?i=figma" width="18" />        | UI/UX design and prototyping             |
+
+---
+
+## 📂 Projects
+
+- [@HRG Software (Healthcare Management Platform)](https://example.com/hrg-software) — Developed a HIPAA-compliant healthcare management platform for US medical practices with Angular, featuring real-time chat, user roles, patient management, and reporting dashboards.  
+- [@ClearFunds (Financial Technology Solution)](https://example.com/clearfunds) — Built high-performance Angular apps delivering working capital solutions for construction businesses.  
+- [@SeeBiz Marketplace (Wholesale Marketplace Platform)](https://example.com/seebiz-marketplace) — Developed MEAN stack wholesale marketplace with responsive design and client-specific customizations.  
+- [@User Xlick Go](https://example.com/user-xlick-go) — Internship project focused on responsive UI component creation using Angular Material and API integration.
+
+*Replace the example URLs (`https://example.com/...`) with the actual project URLs or GitHub links.*
 
 ---
 
