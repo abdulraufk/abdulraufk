@@ -43,27 +43,6 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 
 ---
 
-## 📂 Projects
-
-- [Practice Management System](https://pms.hawkrevenue.com/#/login)  
-  Technologies: Angular, TypeScript, Socket.IO, Firebase, Azure Blob Storage, Stripe, .NET Core  
-  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
-
-- [Seacrest Southwest](https://seacrest.hlxstaffing.com/)  
-  Technologies: Angular, TypeScript, Prime Ng  
-  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
-
-- [Travel Industry Solutions](https://travelindustrysolutions.com/)  
-  Technologies: Angular, TypeScript, REST APIs, WebSockets, Stripe, TokenEx, PrimeNG  
-  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
-
-- [ClearFunds](https://clearfunds.app/sign-in)  
-  Technologies: Angular, TypeScript, REST APIs, WebSockets, Angular Material, Node.js  
-  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
-place the example URLs (`https://example.com/...`) with the actual project URLs or GitHub links.*
-
----
-
 ## 📈 GitHub Stats & Coding Activity
 
 <p align="center">
