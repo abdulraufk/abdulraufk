@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Abdul Rauf Khan
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=flat-square&color=brightgreen&labelColor=blue)  
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=flat-square&color=brightgreen&labelColor=blue)  
-![Followers](https://img.shields.io/github/followers/abdulraufkhan824?style=flat-square&color=brightgreen&labelColor=blue&logo=github)  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abdulraufkhan824&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
-
 I'm a dedicated Full Stack Developer specializing in modern web technologies including Angular, React, Node.js, and the MERN stack. I have worked on diverse projects ranging from healthcare management platforms to enterprise-grade web applications. My passion is building scalable, maintainable, and performant applications that deliver excellent user experiences.
 
 ---
@@ -91,5 +85,6 @@ Thank you for visiting my profile! Feel free to explore my projects or reach out
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square)
 
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufkhan824.abdulraufkhan824&style=flat-square&color=brightgreen&labelColor=blue)  
 
 *Made with ❤️ by Abdul Rauf Khan*
