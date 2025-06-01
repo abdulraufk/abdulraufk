@@ -32,7 +32,7 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 ## 📈 GitHub Stats & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulraufk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=abdulraufk&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraufk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
