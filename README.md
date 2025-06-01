@@ -6,12 +6,19 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently focused on developing high-quality, production-ready applications using **Next.js**, **Angular**, and **Node.js**.  
+- 🔭 Currently focused on developing high-quality, production-ready applications using **Next.js**, **React**, and **Node.js**.  
 - 🌱 Constantly learning new tools and frameworks to stay ahead in the fast-evolving web development landscape.  
 - 👯 Open to collaborating on innovative projects, open-source contributions, and mentoring junior developers.  
 - 🤝 Strong believer in clean code, testing, and best practices to ensure software quality and reliability.  
 - 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
 - ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
+
+Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [@PracticeManagementSystem](https://pms.hawkrevenue.com/#/login), [@SeacrestSouthwest](https://seacrest.hlxstaffing.com/), [@TravelIndustrySolutions](https://travelindustrysolutions.com/), and [@ClearFunds](https://clearfunds.app/sign-in).
+
+
+I’m always eager to collaborate on innovative projects, contribute to open-source, and mentor junior developers. Besides coding, I enjoy working late hours when my creativity and focus are at their peak.
+
+Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/abdulraufkhan824) and [GitHub](https://github.com/abdulraufk).
 
 ---
 
