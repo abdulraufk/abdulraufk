@@ -23,7 +23,7 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 ---
 
 ## 🚀 Tech Stack
-  <p align="left" style="padding: 20px 0;">
+  <p align="left" style="padding: 20px 15px;">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,mongodb,ts,js,tailwind,html,css,vscode,git,github,figma" />
 </p>
 
