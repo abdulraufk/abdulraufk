@@ -38,12 +38,22 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 
 ## 📂 Projects
 
-- [@HRG Software (Healthcare Management Platform)](https://example.com/hrg-software) — Developed a HIPAA-compliant healthcare management platform for US medical practices with Angular, featuring real-time chat, user roles, patient management, and reporting dashboards.  
-- [@ClearFunds (Financial Technology Solution)](https://example.com/clearfunds) — Built high-performance Angular apps delivering working capital solutions for construction businesses.  
-- [@SeeBiz Marketplace (Wholesale Marketplace Platform)](https://example.com/seebiz-marketplace) — Developed MEAN stack wholesale marketplace with responsive design and client-specific customizations.  
-- [@User Xlick Go](https://example.com/user-xlick-go) — Internship project focused on responsive UI component creation using Angular Material and API integration.
+- [Practice Management System](https://pms.hawkrevenue.com/#/login)  
+  Technologies: Angular, TypeScript, Socket.IO, Firebase, Azure Blob Storage, Stripe, .NET Core  
+  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
 
-*Replace the example URLs (`https://example.com/...`) with the actual project URLs or GitHub links.*
+- [Seacrest Southwest](https://seacrest.hlxstaffing.com/)  
+  Technologies: Angular, TypeScript, Prime Ng  
+  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
+
+- [Travel Industry Solutions](https://travelindustrysolutions.com/)  
+  Technologies: Angular, TypeScript, REST APIs, WebSockets, Stripe, TokenEx, PrimeNG  
+  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
+
+- [ClearFunds](https://clearfunds.app/sign-in)  
+  Technologies: Angular, TypeScript, REST APIs, WebSockets, Angular Material, Node.js  
+  GitHub: [github.com/abdulraufk](https://github.com/abdulraufk)
+place the example URLs (`https://example.com/...`) with the actual project URLs or GitHub links.*
 
 ---
 
