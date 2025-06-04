@@ -68,6 +68,6 @@ Feel free to reach out via [email](mailto:abdulraufkhan824@gmail.com) or connect
 <!--![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdulraufk.abdulraufk&style=flat-square) -->
 
 ---
-
+![](https://komarev.com/ghpvc/?username=abdulraufk&abbreviated=true)
 Made with ✨ by **Abdul Rauf Khan**
 
