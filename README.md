@@ -12,7 +12,7 @@ I'm a dedicated Full Stack Developer specializing in modern web technologies inc
 - 🤝 Strong believer in clean code, testing, and best practices to ensure software quality and reliability.  
 - 📫 Reach out anytime: [abdulraufkhan824@gmail.com](mailto:abdulraufkhan824@gmail.com)  
 - ⚡ Fun fact: I'm a night owl 🦉 — I find my creativity and focus peak during late hours.
-- 📝 My Portfolio [https://abdulrauf-portfolio.vercel.app](https://abdulrauf-portfolio.vercel.app)
+- 📝 My [Portfolio](https://abdulrauf-portfolio.vercel.app)
 
 Currently, I focus on developing high-quality applications with **Next.js**, **Angular**, and **Node.js**. I’ve contributed to projects like [@PracticeManagementSystem](https://pms.hawkrevenue.com/#/login), [@SeacrestSouthwest](https://seacrest.hlxstaffing.com/), [@VoiceAudit](https://uat.voiceauditai.com/), [@TravelIndustrySolutions](https://travelindustrysolutions.com/), and [@ClearFunds](https://clearfunds.app/sign-in).
 
